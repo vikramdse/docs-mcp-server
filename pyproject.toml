@@ -1,0 +1,11 @@
+[project]
+name = "docs-mcp-server"
+version = "0.1.0"
+description = "Docs MCP Server"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.5.0",
+]
