@@ -18,7 +18,7 @@ Many LLM models, including those used in **Anthropic Desktop** and similar platf
 - Providing **up-to-date information** for development and troubleshooting.
 - Improving the accuracy and relevance of responses when working with new library updates.
 
-### Setting Up with Anthropic Desktop
+## Setting Up with Anthropic Desktop
 
 To use this server with **Anthropic Desktop**, update the `claude_desktop_config.json` file with the following configuration:
 
